@@ -1,0 +1,25 @@
+{
+  "name": "react-build",
+  "version": "1.0.0",
+  "description": "A simple project where I begin from scratch with npm init and eventually compile React code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AcollaMolla/react-build.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Anton Engman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AcollaMolla/react-build/issues"
+  },
+  "homepage": "https://github.com/AcollaMolla/react-build#readme",
+  "devDependencies": {
+    "webpack-dev-server": "^3.10.3"
+  }
+}
